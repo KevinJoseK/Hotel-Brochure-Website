@@ -1,0 +1,124 @@
+html{
+    font-size: 55%;
+}
+
+#desk{display: none;}
+
+#mobile{display: block;}
+
+.navbar ul li a{
+    padding: 1.5rem 1.5rem;
+    text-align: center;
+    display: block;
+    font-weight: 300;
+    font-size: 1.4rem;
+
+}
+
+#showcase-text h1{
+    font-size: 8rem;
+    line-height: 0em;
+    margin-bottom: 1.8rem;
+}
+
+#showcase-text p{
+    margin-top: .2rem;
+    font-size: 2.4rem;
+}
+
+.home-info{
+    min-height: 40rem;
+    background: url('../images/historyimage2.jpg') no-repeat center center/cover;
+}
+
+.history{
+    display: block;
+    float: none;
+    text-align: center;
+    width: 100%;
+    padding: 2rem;
+}
+
+.home-info p{
+    color: #fff;
+}
+.img, #history-p2{
+    display: none;
+}
+
+.about .container #showcase-text h1{
+    margin-top: 2rem;
+    font-size: 9rem;
+    line-height: 9.5rem;
+
+}
+
+.features{
+    height:137rem;
+    padding: 1rem;
+    margin: 0em;
+}
+
+.features .icons{
+    flex-direction: column;
+}
+
+.features .icons .box{
+    min-width: 100%;
+    margin: 0;
+    padding: 1rem;
+    height: fit-content;
+
+}
+
+.formcontainer{
+    width: 80vw;
+    height: 80vh;
+    margin: 2rem auto 2rem auto;
+    padding: 2.5rem;
+}
+
+.formcontainer h1{
+    font-size: 4.5rem;
+    margin: 1.8rem 0rem 2rem 0rem;
+}
+
+form .btn{
+    width: 76%;
+}
+
+label{
+    padding-left: 2.7rem;
+}
+
+textarea{
+    margin-left: 2.6rem;
+}
+
+.footertext #footerlogo h1{
+    font-size: 2rem;
+    color: #fff;
+    line-height: 0em;
+}
+
+footer .footertext ul{
+    margin-left: .3rem;
+    line-height: 1.6em;
+    font-size: 1.8rem;
+}
+
+footer #cp{
+    padding-top: 1.3rem;
+    margin: 1rem auto;
+    font-size: 1.4rem;
+}
+
+footer .footertext{
+    height: 130px;
+    padding: 2.5rem 1rem 0rem .9rem;
+}
+
+footer{
+    padding: 1.2rem;
+    height: 190px;
+}
